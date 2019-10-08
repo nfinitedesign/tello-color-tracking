@@ -3,7 +3,9 @@
 A color tracker for the *DJI/Ryze Tello* based on [telloCV](https://github.com/Ubotica/telloCV/) with added functionalities like 3D movement, adaptive color tracking, color switching and other controllable parameters. Intended to be used with a round object of medium size, currently set up for a **balloon on a stick**. The size of the object is relevant for the movement of the drone since the radius of the enclosing circle is used to move the drone closer to or further away from the object.
 
 Demo video of the program controlling the drone to keep a blue ballon, that is moved by a robotic arm, in sight and at a certain distance:
+
 ![Tracking a Blue Balloon on a Robot Arm.](robotarmdemo.gif)
+
 \* Robot controls are not included. Video from [MIST Lab](https://mistlab.ca/) ([Twitter](https://twitter.com/mist_lab)).
 
 ## Usage

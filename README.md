@@ -25,7 +25,7 @@ Clone repo and install the necessary requirements via pip:
 ```
 $ git clone https://github.com/nfinitedesign/tello-color-tracking.git
 $ cd tello-color-tracking
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ### Controls ###

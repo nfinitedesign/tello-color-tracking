@@ -23,7 +23,7 @@ Requirements (should work with other versions as well):
 Clone repo and install the necessary requirements via pip:
 
 ```
-$ git clone http://git.mistlab.ca/moritz/tello-tracking-demo.git
+$ git clone https://github.com/nfinitedesign/tello-color-tracking.git
 $ cd tello-tracking-demo
 $ pip install requirements.txt
 ```
